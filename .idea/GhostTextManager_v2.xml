@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GhostTextManager">
+    <option name="inputs">
+      <map>
+        <entry key="&quot;upce naur duaf wykz&quot;ось мій App Password">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751384416707" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="@&lt;file_name&gt; @urls.py">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751374166889" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="Bad Request: /api/wfp_callback/&#10;[01/Jul/2025 17:17:17] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 400 29">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751379451361" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="[01/Jul/2025 17:45:21] &quot;POST /api/payments/ HTTP/1.1&quot; 201 202&#10; WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/i882b1773c13e', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/i882b1773c13e?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;Translation processing error: {'payment': ErrorDetail(string='Payment is required', code='invalid')}&#10;[01/Jul/2025 17:46:16] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381219264" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="{&#10;    &quot;orderReference&quot;: &quot;110-1751379541&quot;,&#10;    &quot;status&quot;: &quot;accept&quot;,&#10;    &quot;time&quot;: 1751380833,&#10;    &quot;signature&quot;: &quot;6d0738a2eae2df0273775d1ada300b05&quot;&#10;} ось таку відповідь отримав">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751380852569" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="Згенерований пароль додатка&#10;Ваш пароль додатка для пристрою&#10;exqk vvqw zcyl vmkf&#10;Як використовувати&#10;Перейдіть у налаштування облікового запису Google у додатку чи на пристрої, який ви хочете налаштувати. Замініть наявний пароль указаним вище 16-значним паролем.&#10;Як і звичайний пароль, цей пароль додатка надає повний доступ до вашого облікового запису Google. Пароль додатка не потрібно запам’ятовувати, тому не записуйте його та нікому не повідомляйте.">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751385022754" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="а чи повністю відповідає твої зміни у payments\views.py цьому файлу ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751379303747" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="але я не бачу на пошті свого листа з перекладом і мені треба щоб в БД записувалось не Approved а success">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751384246997" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="мені ж не потрібно порівнювати signature, перепиши def wfp_callback таким чином щоб програма отримувала відповідь про оплату і потім перекладала текст та відправляла його на пошту, ось приклад відповіді . СПілкуйся зі мною українською">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751380332679" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="можливо я можу якось  через Postman перевірити коректність роботи коду чи треба прям в програмі пробувати ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381376876" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="ти повинен проаналізувавший це код правильно реалізувати сигнатуру і переробити def wfp_callback таким чиином щоб після отримання відопвіді про оплату міняти її статус на success і перекладаючи текст через DeepL API відправляти текст на пошту завдяки функції send_translation_email має відправити translations_result.html і в БД закинути реузльтатт оплати">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751379025990" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="тобто тепер не має бути проблем з передачею айді оплати щоб виконати переклад і надіслати його поштою ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381304757" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="це я отримав від ngrok,">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751379691167" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="чи можу я перевірити чи правильно працює ця callback функція через Postman ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751380704679" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="чи можу я через Postman перевірити суто надсилання листа чи воно працює ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381782842" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="що на твою думку робить цей код ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751378339095" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="що я маю підставити на orderReferense ?">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751383654138" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="що я маю підставити на orderReferense ? POST http://localhost:8000/api/wfp_callback/&#10;Content-Type: application/json&#10;&#10;{&#10;    &quot;merchantAccount&quot;: &quot;test_merch_n1&quot;,&#10;    &quot;orderReference&quot;: &quot;YOUR_EXISTING_ORDER_REF&quot;,&#10;    &quot;reasonCode&quot;: 1100,&#10;    &quot;transactionStatus&quot;: &quot;Approved&quot;,&#10;    &quot;amount&quot;: 1,&#10;    &quot;currency&quot;: &quot;UAH&quot;&#10;}">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751383675726" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key="як створити App Password Google">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751384823076" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/i96b29202ff66', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/i96b29202ff66?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;Translation processing error: 'NoneType' object has no attribute 'rsplit'&#10;[01/Jul/2025 18:31:48] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751383923684" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/ib67b271fc621', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/ib67b271fc621?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;[01/Jul/2025 17:52:33] &quot;POST /api/payments/ HTTP/1.1&quot; 201 193&#10;Translation processing error: emails/translation_result.html&#10;[01/Jul/2025 17:53:37] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381683770" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/ib928734a3892', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/ib928734a3892?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;Translation processing error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-60c828bb118sm7653654a12.2 - gsmtp')&#10;[01/Jul/2025 18:42:22] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118&#10;Payment not found for orderReference: 114-1751383492&#10;Not Found: /api/wfp_callback/&#10;[01/Jul/2025 18:42:34] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 404 29&#10; українською">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="2.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751384752244" />
+                  <option value="1751384638041" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/id460bec232fd', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/id460bec232fd?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;[01/Jul/2025 17:41:42] &quot;POST /api/payments/ HTTP/1.1&quot; 201 193&#10;Translation processing error: {'source_lang': [ErrorDetail(string='&quot;en&quot; is not a valid choice.', code='invalid_choice')], 'target_lang': [ErrorDetail(string='&quot;uk&quot; is not a valid choice.', code='invalid_choice')]}&#10;[01/Jul/2025 17:42:33] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118&#10;callback зловився через ngrok ле отриамв ось таку помилку">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751381002365" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/iee609e2a8b57', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/iee609e2a8b57?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;[01/Jul/2025 18:24:52] &quot;POST /api/payments/ HTTP/1.1&quot; 201 193&#10;Translation processing error: email/translation_result.html&#10;[01/Jul/2025 18:25:51] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751383579465" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+        <entry key=" WayForPay full response: {'invoiceUrl': 'https://secure.wayforpay.com/invoice/ifd569ea2ee90', 'reason': 'Ok', 'reasonCode': 1100, 'qrCode': 'https://wayforpay.com/qr/img/ifd569ea2ee90?type=i&amp;size=200'}&#10; reasonCode: 1100&#10; reason: Ok&#10;[01/Jul/2025 18:33:18] &quot;POST /api/payments/ HTTP/1.1&quot; 201 193&#10;[01/Jul/2025 18:34:04] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 200 118&#10;Content-Type: multipart/alternative;&#10; boundary=&quot;===============0309962690152789247==&quot;&#10;MIME-Version: 1.0&#10;Subject: =?utf-8?b?0JLQsNGIINC/0LXRgNC10LrQu9Cw0LQg0LPQvtGC0L7QstC40Lk=?=&#10;From: noreply@example.com&#10;To: yakymivdanylor@gmail.com&#10;Date: Tue, 01 Jul 2025 15:34:04 -0000&#10;Message-ID: &lt;175138404456.9516.12810275484666063256@Danya&gt;&#10;&#10;--===============0309962690152789247==&#10;Content-Type: text/html; charset=&quot;utf-8&quot;&#10;MIME-Version: 1.0&#10;Content-Transfer-Encoding: 8bit&#10;&#10;&lt;!DOCTYPE html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;title&gt;Your Translation&lt;/title&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;    &lt;h2&gt;Ваш переклад готовий!&lt;/h2&gt;&#10;    &lt;p&gt;&lt;strong&gt;Початковий текст:&lt;/strong&gt;&lt;br&gt;Hello&lt;/p&gt;&#10;    &lt;p&gt;&lt;strong&gt;Мова:&lt;/strong&gt; EN → UK&lt;/p&gt;&#10;    &lt;hr&gt;&#10;    &lt;p&gt;&lt;strong&gt;Переклад:&lt;/strong&gt;&lt;br&gt;Привіт.&lt;/p&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;&#10;&#10;--===============0309962690152789247==--&#10;&#10;-------------------------------------------------------------------------------&#10;Payment not found for orderReference: 112-1751381121&#10;Not Found: /api/wfp_callback/&#10;[01/Jul/2025 18:34:21] &quot;POST /api/wfp_callback/ HTTP/1.1&quot; 404 29">
+          <value>
+            <GhostTextMetaData>
+              <option name="count" value="1.0" />
+              <option name="timestamps">
+                <list>
+                  <option value="1751384114084" />
+                </list>
+              </option>
+            </GhostTextMetaData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
